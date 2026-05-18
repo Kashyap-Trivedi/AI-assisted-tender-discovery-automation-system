@@ -66,6 +66,10 @@ Structured Excel Reporting
 - Workflow Automation
 
 ---
+## Project Architecture
+
+### Business Workflow Architecture
+![Business Workflow Architecture](screenshots/accurate-tender-architecture.png)
 
 ## Portfolio Note
 This repository is a public showcase version created for professional portfolio purposes.
